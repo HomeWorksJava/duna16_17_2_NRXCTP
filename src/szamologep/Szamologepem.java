@@ -83,6 +83,7 @@ public class Szamologepem extends javax.swing.JFrame {
     jButton4.setEnabled(false);
     jButton5.setEnabled(false);
     jButton6.setEnabled(false);
+    
     jButton7.setEnabled(false);
     jButton8.setEnabled(false);
     jButton9.setEnabled(false);
